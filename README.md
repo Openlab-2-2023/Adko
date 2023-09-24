@@ -1,0 +1,2 @@
+# Adko
+zivotopis
