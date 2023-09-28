@@ -37,7 +37,8 @@ body {
   block-size: cover;
   background-attachment: local;
   height: 700px;
-  background: linear-gradient(top bottom, rgb(0, 18, 32) 49%, rgb(255, 255, 255) 100%);
+  background-color: aqua;
+  backgron: linear-gradient(to bottom, rgb(0, 18, 32) , rgb(255, 255, 255));
 
 
 } 
