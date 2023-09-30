@@ -29,17 +29,16 @@ p a{
 }
 
 body {
-  background-image: url("wawes.jpg");
+  background-image: url("wawes.jpg"); /*spravit ešte aby obrazok bol nad tam tieneným*/
+  height: 700px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 100px;
   block-size: cover;
   background-attachment: local;
-  height: 700px;
   background-color: aqua;
-  backgroun: linear-gradient(to bottom, rgb(0, 18, 32) , rgb(255, 255, 255));
-
+  background:linear-gradient(to bottom, rgb(0, 18, 32) , rgb(255, 255, 255)) no-repeat 0px 500px ;
+  height: auto;
 
 } 
 
