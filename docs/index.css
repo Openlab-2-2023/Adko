@@ -56,3 +56,31 @@ body i{
   font-size: 45px;
   color:rgb(0, 25, 137);
 }
+
+table{
+  background-color: rgb(133, 133, 202);
+  text-align: center;
+  border-radius: 9px;
+  margin:3rem 6rem ;
+  padding: 10px;
+  font-size: 20px;
+  width: auto;
+  border-spacing: 20px;
+}
+
+th{
+  background-color: #812035;
+  padding: 1rem;
+  border-radius: 8px;
+  border:solid 5px;
+  border-spacing: 20px;
+  
+}
+
+td{
+  background-color: orange;
+  padding: 1rem;
+  border-radius: 8px;
+  border:solid 5px;
+  border-spacing: 20px;
+}
